@@ -1,0 +1,11 @@
+{
+  "name": "airipay-ui",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "files": ["src"],
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "styled-components": "^6.0.0",
+    "framer-motion": "^10.0.0"
+  }
+}
