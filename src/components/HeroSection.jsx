@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import { motion } from 'framer-motion';
-import heroBg from '../assets/airiPayLogo5.png';
+import heroBg from ;
 
 const HeroWrapper = styled.section`
   background: url(${heroBg}) no-repeat center center/cover;
