@@ -47,10 +47,10 @@ export default function HeroSection() {
         AIRI PAY
       </Title>
       <Subtitle initial={{ y: 20, opacity: 0 }} animate={{ y: 0, opacity: 1 }} transition={{ delay: 0.5 }}>
-        A Rail Agnostic Agentic AI Payment Router UX
+        A Rail-Agnostic Agentic AI Payment Router UX
       </Subtitle>
       <Link href="https://airipay.ai" target="_blank" initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ delay: 1 }}>
-        airipay.ai
+        Coming Soon!
       </Link>
     </HeroWrapper>
   );
