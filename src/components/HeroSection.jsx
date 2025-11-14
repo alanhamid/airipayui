@@ -3,7 +3,8 @@ import styled from 'styled-components';
 import { motion } from 'framer-motion';
 
 const HeroWrapper = styled.section`
-  background: url(${heroBg}) no-repeat center center/cover;
+  background:linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 100%);
+
   height: 100vh;
   display: flex;
   flex-direction: column;
