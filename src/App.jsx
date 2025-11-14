@@ -14,7 +14,7 @@ function App() {
       <HeroSection />
       <Container>
         <Heading>Welcome to AIRI PAY</Heading>
-        <Paragraph>Secure, AI-driven payment routing for the future.</Paragraph>
+        <Paragraph>Frictionless, AI-driven, cross-currency payment routing for the GCC.</Paragraph>
         <Button>Get Started</Button>
       </Container>
     </ThemeProvider>
